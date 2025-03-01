@@ -1,8 +1,8 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://kzeezclothing.com"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
-theme = "hugo-split-theme"
+title = "KZeez Clothing"
+# theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
 
